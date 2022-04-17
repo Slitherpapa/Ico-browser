@@ -10,7 +10,7 @@ Um navegado muito poderoso
 - Favoritos
 - Capacidade de importar/exportar favoritos/configurações
 - Múltiplas abas
-- Visualizar certiicado
+- Visualizar certificado
 
 ### Outros recursos
 
