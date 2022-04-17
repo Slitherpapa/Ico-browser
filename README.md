@@ -18,6 +18,12 @@ Um navegado muito poderoso
 - Gratuito
 - Sem vírus ou qualquer tipo de danos ao seu celular
 
+## Licença
+
+Nenhuma licenças, por isso, use como quiser! 
+
+Se quiser melhorar, usar a base, por favor, informe a origem que, neste caso, é minha.
+
 ## Extenções utilizada
 
 - CustomWebView: https://github.com/vknow360/CustomWebView
