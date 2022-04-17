@@ -38,9 +38,9 @@ Um navegado muito poderoso
 - android.permission.ACCESS_NETWORK_STATE 
 - android.permission.ACCESS_WIFI_STATE 
 - android.permission.MODIFY_AUDIO_SETTINGS 
-- android.permission.CAMERA 
+- android.permission.CAMERA (Usada se dada a permisão)
 - android.permission.READ_EXTERNAL_STORAGE 
-- android.permission.READ_PHONE_STATE 
+- android.permission.READ_PHONE_STATE (Usada se dada a permisão)
 - android.permission.ACCESS_DOWNLOAD_MANAGER 
 - android.permission.ACCESS_COARSE_LOCATION (Usada se dada a permisão)
 
