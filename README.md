@@ -20,7 +20,7 @@ Um navegado muito poderoso
 
 ## Licença
 
-Nenhuma licenças, por isso, use como quiser! 
+Nenhuma licença, por isso, use como quiser! 
 
 Se quiser melhorar, usar a base, por favor, informe a origem que, neste caso, é minha.
 
