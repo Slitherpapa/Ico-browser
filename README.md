@@ -18,6 +18,12 @@ Um navegado muito poderoso
 - Gratuito
 - Sem vírus ou qualquer tipo de danos ao seu celular
 
+## Extenções utilizada
+
+- CustomWebView: https://github.com/vknow360/CustomWebView
+- ColinTreeListView: https://aix.colintree.cn/en/extensions/ColinTreeListView.html
+- TaifunTextBox: https://puravidaapps.com/textbox.php
+
 ## Permissões (Algumas delas podem não ser usadas)
 
 - android.permission.DOWNLOAD_WITHOUT_NOTIFICATION 
