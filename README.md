@@ -30,7 +30,7 @@ Um navegado muito poderoso
 - android.launcher.permission.INSTALL_SHORTCUT 
 - android.permission.VIBRATE 
 - android.permission.RECORD_AUDIO (Usada se dada a permisão)
-- android.permission.WRITE_EXTERNAL_STORAGE 
+- android.permission.WRITE_EXTERNAL_STORAGE (Usada se dada a permisão)
 - android.webkit.resource.VIDEO_CAPTURE (Usada se dada a permisão)
 - android.permission.ACCESS_FINE_LOCATION (Usada se dada a permisão)
 - android.webkit.resource.AUDIO_CAPTURE 
@@ -39,7 +39,7 @@ Um navegado muito poderoso
 - android.permission.ACCESS_WIFI_STATE 
 - android.permission.MODIFY_AUDIO_SETTINGS 
 - android.permission.CAMERA (Usada se dada a permisão)
-- android.permission.READ_EXTERNAL_STORAGE 
+- android.permission.READ_EXTERNAL_STORAGE (Usada se dada a permisão)
 - android.permission.READ_PHONE_STATE (Usada se dada a permisão)
 - android.permission.ACCESS_DOWNLOAD_MANAGER 
 - android.permission.ACCESS_COARSE_LOCATION (Usada se dada a permisão)
