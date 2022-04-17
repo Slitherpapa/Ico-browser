@@ -30,6 +30,10 @@ Se quiser melhorar, usar a base, por favor, informe a origem que, neste caso, é
 - ColinTreeListView: https://aix.colintree.cn/en/extensions/ColinTreeListView.html
 - TaifunTextBox: https://puravidaapps.com/textbox.php
 
+## Avisos
+
+Algumas opções, por exeplo, o histórico, podem ser alteradas ou apagas devido atualizações.
+
 ## Permissões (Algumas delas podem não ser usadas)
 
 - android.permission.DOWNLOAD_WITHOUT_NOTIFICATION 
