@@ -54,6 +54,17 @@ Algumas opções, por exeplo, o histórico, podem ser alteradas ou apagas devido
 - android.permission.ACCESS_DOWNLOAD_MANAGER 
 - android.permission.ACCESS_COARSE_LOCATION (Usada se dada a permisão)
 
+## Componentes mais usados
+
+- Label: 33
+- Card View: 25
+- Space: 10
+- Horizontal Arrangement: 10
+- Button: 9
+- Linear Progressbar: 5
+- Vertical Arrangement: 5
+- Notifier: 5
+
 ## Capturas de tela
 
 <details close>
