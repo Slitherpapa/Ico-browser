@@ -32,7 +32,7 @@ Se quiser melhorar, usar a base, por favor, informe a origem que, neste caso, é
 
 ## Avisos
 
-Algumas opções, por exeplo, o histórico, podem ser alteradas ou apagas devido atualizações.
+Algumas opções, por exeplo, o histórico, podem ser alteradas ou apagadas devido atualizações.
 
 ## Permissões (Algumas delas podem não ser usadas)
 
