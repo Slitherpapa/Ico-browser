@@ -34,6 +34,10 @@ Se quiser melhorar, usar a base, por favor, informe a origem que, neste caso, é
 
 Algumas opções, por exeplo, o histórico, podem ser alteradas ou apagadas devido atualizações.
 
+**P:** Porque não posso colocar como navegador padrão?<br>
+**R:** Pois preciso modicar a extenção para que seja reconhecida uma determinada atividade de meu app, por isso, não coloquei.<br>
+**Alternativa:** Compartilhar o link para meu app.
+
 ## Permissões (Algumas delas podem não ser usadas)
 
 - android.permission.DOWNLOAD_WITHOUT_NOTIFICATION 
