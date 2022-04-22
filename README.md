@@ -29,7 +29,6 @@ Se quiser melhorar, usar a base, por favor, informe a origem que, neste caso, é
 - CustomWebView: https://github.com/vknow360/CustomWebView
 - ColinTreeListView: https://aix.colintree.cn/en/extensions/ColinTreeListView.html
 - TaifunTextBox: https://puravidaapps.com/textbox.php
-- ImageLoader: https://community.kodular.io/t/f-os-image-loader-extension-for-image-loading-and-caching/69381
 
 ## Avisos
 
