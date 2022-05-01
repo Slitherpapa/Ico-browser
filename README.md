@@ -65,7 +65,7 @@ Algumas opções, por exeplo, o histórico, podem ser alteradas ou apagadas devi
 - Vertical Arrangement: 5
 - Notifier: 5
 
-## Capturas de tela
+## Capturas de tela (Algumas imagens podem ter mudado)
 
 <details close>
 <summary>Clique aqui para ver imagens da tela inicial</summary>
