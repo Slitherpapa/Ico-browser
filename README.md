@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/69695537/166925348-a215e66a-8e58-44a4-b901-efc7607aa377.png" height="60"> Ico browser
+# Ico browser
 Um navegador muito poderoso
 
 ## Recursos
