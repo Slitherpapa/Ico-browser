@@ -1,6 +1,9 @@
 # Ico browser
 Um navegador muito poderoso
 
+**Descontinuado**
+
+
 ## Recursos
 
 - Bloqueador de anúncios
