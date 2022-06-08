@@ -1,8 +1,8 @@
-# Ico browser
+
+# Descontinuado
+
+## Ico browser
 Um navegador muito poderoso
-
-**Descontinuado**
-
 
 ## Recursos
 
