@@ -1,5 +1,5 @@
 
-# Descontinuado
+# O projeto continuara, porém com menos frequência
 
 ## Ico browser
 Um navegador muito poderoso
